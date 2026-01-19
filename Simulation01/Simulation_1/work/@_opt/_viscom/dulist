@@ -1,0 +1,4 @@
+1 6 mux2_1 4 fast 49 C:/Users/hanna/Documents/CPE324/Simulation_1/work 0 0 180224 0 26 0
+1 10 fullsubadd 4 fast 49 C:/Users/hanna/Documents/CPE324/Simulation_1/work 0 0 180224 0 73 0
+1 16 four_bit_sub_add 4 fast 49 C:/Users/hanna/Documents/CPE324/Simulation_1/work 0 0 720896 0 335 0
+1 17 eight_bit_sub_add 4 fast 49 C:/Users/hanna/Documents/CPE324/Simulation_1/work 0 0 1442816 0 697 0
