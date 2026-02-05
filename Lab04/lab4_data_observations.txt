@@ -1,0 +1,16 @@
+Phase 1:
+1uF cap measured at 0.996 micro Farads (put % error in report)
+10 kOhm precision resistor measured at 9999.2 kOhm (put % error in report)
+expected time at logic low (using derivation in pptx) = 6.903E-3 (redo math with measured resistor value instead of ideal value)
+actual time at logic low = -width from oscope picture
+
+Phase 2:
+show how to find the number of clock cycles the waveform stays at 0 (cap discharge cycle)
+cap discharge cycles = 3465.5 = full_count = 6931*0.01uF*50MHz
+buswidth= ceil(log2(full_count)) = 12
+
+Phase 3:
+include BCD counter code in report
+
+Phase 4:
+include debounce function code in report
